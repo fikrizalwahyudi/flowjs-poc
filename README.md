@@ -1,3 +1,13 @@
+
+# HOW TO RUN
+1. in root directory `npm install`
+2. cd to server directory and run `npm install`
+3. cd to root directory running server `npm run serve`
+4. open new terminal and run `npm run start`
+
+
+# Original Documentation From ngx-flow
+
 # NgxFlow
 
 [![Build Status](https://travis-ci.com/flowjs/ngx-flow.svg?branch=master)](https://travis-ci.com/flowjs/ngx-flow)

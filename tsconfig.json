@@ -12,6 +12,7 @@
     "sourceMap": true,
     "declaration": false,
     "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "ngx-flow": [
         "dist/ngx-flow/ngx-flow",
